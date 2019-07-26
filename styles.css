@@ -1,0 +1,6 @@
+.col1, .col2 {
+    width: 40%;
+    height: 150px;
+    float: left;
+    /* border: 1px solid red; */
+}
