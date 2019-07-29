@@ -1,0 +1,3 @@
+# blackjackjsdoarturzin
+
+open index.html
